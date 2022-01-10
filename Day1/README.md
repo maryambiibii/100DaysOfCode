@@ -3,8 +3,8 @@ Today, was my day 1 of 100 days of code challenge. I have started to learn pytho
 I have covered:
 
 Variables in python
-String Manipulation
-Input and Print Functions
+,String Manipulation
+,Input and Print Functions
 - Variable Naming Rules
 
 Choose those name of variables that make our code readable e.g city_name
