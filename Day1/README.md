@@ -1,10 +1,14 @@
 Today, was my day 1 of 100 days of code challenge. I have started to learn python language by following a Udemy course 100 Days of Code: The Complete Python Pro Bootcamp for 2022.
 
+
 I have covered:
 
 Variables in python
-,String Manipulation
-,Input and Print Functions
+
+String Manipulation
+
+Input and Print Functions
+
 - Variable Naming Rules
 
 Choose those name of variables that make our code readable e.g city_name
@@ -24,5 +28,16 @@ Setting up local editors is sometimes time consuming however our aim is to pract
 - Project: Band Name Generator
 
 At the end, she assigned us a project that covers all the concepts of Day 1. Where, we have to generate band name for the user by taking the name of their city where they grew up and the name of their pet.
+
+Links:
+
+Course: https://www.udemy.com/course/100-days-of-code/
+
+Python IDE for begginer and debugging: https://thonny.org
+
+Browser Based Code Editor: https://replit.com/~
+
+
+
 
 
