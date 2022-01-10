@@ -11,3 +11,10 @@ pet_name = input("What's your pet name?\n")
 
 #Concatenate name of city and pet
 print("Your band name could be " + city_name + " " + pet_name)
+
+#Welcome to the Band Name Generator.
+#What's name of the city you grew up in?
+#Attock
+#What's your pet name?
+#Cat
+#Your band name could be Attock Cat
