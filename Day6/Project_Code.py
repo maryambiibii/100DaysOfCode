@@ -14,3 +14,6 @@ while not at_goal():
     elif wall_on_right() and not front_is_clear():
         turn_left()
        
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
