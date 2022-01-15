@@ -1,7 +1,7 @@
 **Hurdle 1:**
 ![This is an image](https://github.com/maryambiibii/100DaysOfCode/blob/main/Day6/Img/Hurdle1.png)
 **Hurdle 2:**
-![This is an image](https://github.com/maryambiibii/100DaysOfCode/blob/main/Day6/Img/Hurdle2.png)
+![This is an image](https://github.com/maryambiibii/100DaysOfCode/blob/main/Day6/Img/Hurdle3.png)
 **Hurdle 3:**
 ![This is an image](https://github.com/maryambiibii/100DaysOfCode/blob/main/Day6/Img/Project_Output.png)
 **Hurdle 4:**
