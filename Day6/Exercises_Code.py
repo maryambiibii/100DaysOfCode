@@ -20,6 +20,24 @@ for hurdles in range(6):
     hurdles_loop()
     
 # Hurdle 2
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
+def hurdles_loop():
+    move()
+    turn_left()
+    move()
+    turn_right()
+    move()
+    turn_right()
+    move()
+    turn_left()
+    
+while not at_goal():
+    hurdles_loop()
+
 
         
 # Hurdle 3
