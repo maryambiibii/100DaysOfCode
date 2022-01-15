@@ -8,7 +8,7 @@
 
 **Hurdle 3:**
 
-![This is an image](https://github.com/maryambiibii/100DaysOfCode/blob/main/Day6/Img/Project_Output.png)
+![This is an image](https://github.com/maryambiibii/100DaysOfCode/blob/main/Day6/Img/Hurdle3.png)
 
 **Hurdle 4:**
 
