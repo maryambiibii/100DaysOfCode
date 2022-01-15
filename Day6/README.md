@@ -4,7 +4,7 @@
 
 **Hurdle 2:**
 
-![This is an image](https://github.com/maryambiibii/100DaysOfCode/blob/main/Day6/Img/Hurdle3.png)
+![This is an image](https://github.com/maryambiibii/100DaysOfCode/blob/main/Day6/Img/Hurdle2.png)
 
 **Hurdle 3:**
 
