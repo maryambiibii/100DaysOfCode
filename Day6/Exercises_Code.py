@@ -1,4 +1,4 @@
-#Solve Reeborg's World hurdles as an exercies
+#Solved Reeborg's World hurdles as an exercies
 
 # Hurdle 1
 def turn_right():
