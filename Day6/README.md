@@ -14,6 +14,6 @@
 
 ![This is an image](https://github.com/maryambiibii/100DaysOfCode/blob/main/Day6/Img/Hurdle4.png)
 
-**Project Output Image:**
+**Project Output Image:Maza**
 
 ![This is an image](https://github.com/maryambiibii/100DaysOfCode/blob/main/Day6/Img/Project_Output.png)
