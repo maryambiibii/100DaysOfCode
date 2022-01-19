@@ -12,3 +12,5 @@ Day 5: https://maryambibi.hashnode.dev/day-5-100-days-of-code
 Day 6: https://maryambibi.hashnode.dev/day-6-100-days-of-code
 
 Day 7: https://maryambibi.hashnode.dev/day-7-100-days-of-code
+
+Day 8: https://maryambibi.hashnode.dev/day-8-100-days-of-code
