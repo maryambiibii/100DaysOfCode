@@ -1,2 +1,2 @@
 Give it a run on replit.com:
-[Replit](https://replit.com/join/drnslkrtjp-maryambibi1)
+[Blackjack Replit](https://replit.com/@maryambibi1/blackjack-start-4#main.py)
