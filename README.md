@@ -20,3 +20,5 @@ Day 9: https://maryambibi.hashnode.dev/day-9-100-days-of-code
 Day 10: https://maryambibi.hashnode.dev/day-10-100-days-of-code
 
 Day 11: https://maryambibi.hashnode.dev/day-11-100-days-of-code
+
+Day 12: https://maryambibi.hashnode.dev/day-12-100-days-of-code
