@@ -44,3 +44,5 @@ Day 22: https://maryambibi.hashnode.dev/day-22-100-days-of-code
 Day 23: https://maryambibi.hashnode.dev/day-23-100-days-of-code
 
 Day 24: https://maryambibi.hashnode.dev/day-24-100-days-of-code
+
+Day 25: https://maryambibi.hashnode.dev/day-25-100-days-of-code
