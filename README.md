@@ -48,3 +48,5 @@ Day 24: https://maryambibi.hashnode.dev/day-24-100-days-of-code
 Day 25: https://maryambibi.hashnode.dev/day-25-100-days-of-code
 
 Day 26: https://maryambibi.hashnode.dev/day-26-100-days-of-code
+
+Day 27: https://maryambibi.hashnode.dev/day-27-100-days-of-code
