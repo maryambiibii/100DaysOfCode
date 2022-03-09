@@ -66,3 +66,5 @@ Day 33: https://maryambibi.hashnode.dev/day33-100-days-of-code
 Day 34: https://maryambibi.hashnode.dev/day-34-100-days-of-code
 
 Day 35: https://maryambibi.hashnode.dev/day-35-100-days-of-code
+
+Day 36: https://maryambibi.hashnode.dev/day-36-100-days-of-code
