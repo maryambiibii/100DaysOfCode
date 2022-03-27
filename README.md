@@ -78,3 +78,5 @@ Day 39: https://maryambibi.hashnode.dev/day-39-100-days-of-code
 Day 40: https://maryambibi.hashnode.dev/day-40-100-days-of-code
 
 Day 41: https://maryambibi.hashnode.dev/day-41-100-days-of-code
+
+Day 42: https://maryambibi.hashnode.dev/day-42-100-days-of-code
