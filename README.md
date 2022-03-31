@@ -86,3 +86,5 @@ Day 43: https://maryambibi.hashnode.dev/day-43-100-days-of-code
 Day 44: https://maryambibi.hashnode.dev/day-44-100-days-of-code
 
 Day 45: https://maryambibi.hashnode.dev/day-45-100-days-of-code
+
+Day 46: https://maryambibi.hashnode.dev/day-46-100-days-of-code
