@@ -90,3 +90,5 @@ Day 45: https://maryambibi.hashnode.dev/day-45-100-days-of-code
 Day 46: https://maryambibi.hashnode.dev/day-46-100-days-of-code
 
 Day 47: https://maryambibi.hashnode.dev/day-47-100-days-of-code
+
+Day 48: https://maryambibi.hashnode.dev/day-48-100-days-of-code
