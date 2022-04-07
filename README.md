@@ -100,3 +100,5 @@ Day 50: https://maryambibi.hashnode.dev/day-50-100-days-of-code
 Day 51: https://maryambibi.hashnode.dev/day-51-100-days-of-code
 
 Day 52: https://maryambibi.hashnode.dev/day-52-100-days-of-code
+
+Day 53: https://maryambibi.hashnode.dev/day-53-100-days-of-code
