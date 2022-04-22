@@ -7,7 +7,7 @@ from wtforms.validators import DataRequired, URL
 import csv
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
+app.config['SECRET_KEY'] = 'your_key'
 Bootstrap(app)
 
 coffee_choices = [('1', '☕️'),('2', '☕️☕️'),('3', '☕️☕️☕️'),('4', '☕️☕️☕️☕️'),('5', '☕️☕️☕️☕️☕️')]
